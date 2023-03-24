@@ -1,7 +1,7 @@
 import { createContext } from "react";
 
-const initials = {
+const drawContextInitials = {
 
 }
 
-export const DrawContext = createContext(initials)
+export const DrawContext = createContext(drawContextInitials)
