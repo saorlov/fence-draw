@@ -1,10 +1,10 @@
-import {Container, VStack } from "@chakra-ui/react";
-import DrawCanvas from "./components/DrawCanvas";
+import { Container } from "@chakra-ui/react";
+import VisualComponent from "./components/visuals/VisualComponent";
 
 function App(props) {
   return (
       <Container>
-          <DrawCanvas />
+          <VisualComponent />
       </Container>
   );
 }
