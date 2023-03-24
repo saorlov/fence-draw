@@ -1,4 +1,4 @@
-import { DrawContext } from "./Contexts";
+import { DrawContext } from "../Contexts";
 
 const drawInitials = {
     mock: null
